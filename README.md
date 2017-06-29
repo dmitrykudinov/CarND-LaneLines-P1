@@ -6,4 +6,5 @@
 alt="Basic Lane Detection" width="240" height="180" border="10" /></a>
 
 Detailed description and source code: [https://dmitrykudinov.github.io/](https://dmitrykudinov.github.io/)
+
 From the Udacity Self Driving Car Nano-degree program: [https://www.udacity.com/drive](https://www.udacity.com/drive)
